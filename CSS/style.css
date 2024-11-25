@@ -1,0 +1,11 @@
+body {
+    #example1 {
+        background: url(../IMAGES/Altja_jõgi_Lahemaal.jpg) right bottom no-repeat, url(../IMAGES/PNG_transparency_demonstration_1.png) left top repeat;
+      }
+}
+.p {
+    -webkit-border-radius: 10px;  
+    -moz-border-radius: 10px;     
+    -ms-border-radius: 10px;      
+    border-radius: 10px;         
+}
